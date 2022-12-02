@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Caramel Butter Ring",
+    "type": "Pastry",
+    "restrictions": "Gluten-free",
+    "price": 7.99,
+    "image": "images/caramel.png"
+  },
+  {
+    "name": "Lemon Pound Cake Muffins",
+    "type": "Pastry",
+    "restrictions": "Dairy-free",
+    "price": 4.99,
+    "image": "images/lemon.png"
+  },
+  {
+    "name": "Cherry Chip Scones",
+    "type": "Pastry",
+    "restrictions": "Gluten-free",
+    "price": 2.99,
+    "image": "images/scone.png"
+  },
+  {
+    "name": "Croissant",
+    "type": "Pastry",
+    "restrictions": "Dairy-free",
+    "price": 1.99,
+    "image": "images/croissant.png"
+  },
+  {
+    "name": "Donut",
+    "type": "Pastry",
+    "restrictions": "Gluten-free",
+    "price": 3.99,
+    "image": "images/donut.png"
+  },
+  {
+    "name": "Puff",
+    "type": "Pastry",
+    "restrictions": "Dairy-free",
+    "price": 3.99,
+    "image": "images/puff.png"
+  },
+  {
+    "name": "Cherry Marble Cake",
+    "type": "Cake",
+    "restrictions": "Dairy-free",
+    "price": 5.99,
+    "image": "images/marble.png"
+  },
+  {
+    "name": "Chocolate Fudge Brownie",
+    "type": "Cake",
+    "restrictions": "Gluten-free",
+    "price": 3.99,
+    "image": "images/brownie.png"
+  },
+  {
+    "name": "Macarons Cake",
+    "type": "Cake",
+    "restrictions": "Dairy-free",
+    "price": 4.99,
+    "image": "images/macaron.png"
+  },
+  {
+    "name": "Bundt Cake",
+    "type": "Cake",
+    "restrictions": "Gluten-free",
+    "price": 5.99,
+    "image": "images/bundt.png"
+  },
+  {
+    "name": "Carrot Cake",
+    "type": "Cake",
+    "restrictions": "Dairy-free",
+    "price": 4.99,
+    "image": "images/carrot.png"
+  },
+  {
+    "name": "Classic Cupcake",
+    "type": "Cake",
+    "restrictions": "Gluten-free",
+    "price": 1.99,
+    "image": "images/cupcake.png"
+  }
+]
