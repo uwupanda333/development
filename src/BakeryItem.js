@@ -5,7 +5,9 @@ function BakeryItem(props) {
             <p>Type: {props.item.type}</p>
             <p>Dietary Restrictions: {props.item.restrictions}</p>
             <p>{props.item.price}</p>
-            <img alt="" src={props.item.image} />
+            <img alt="" src={props.item.image} width="200" height="200"/>
+            <br></br>
+            <br></br>
             <button onClick={() => {props.addToCart(props.item)}}>Add to cart!</button>
             <button onClick={() => {props.removeFromCart(props.item)}}>Remove from cart!</button>
         </div>
